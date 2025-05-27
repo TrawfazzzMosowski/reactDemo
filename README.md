@@ -5,6 +5,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
 ## Step 1: Start Metro
+Before running Metro Please do an npm install to get all the node modules needed
 
 First, you will need to run **Metro**, the JavaScript build tool for React Native.
 
