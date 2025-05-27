@@ -7,6 +7,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 ## Step 1: Start Metro
 Before running Metro Please do an npm install to get all the node modules needed
 
+Add the two New Relic License Keys IOS and Android in the index.js so the data will go to the correct app.
+
 First, you will need to run **Metro**, the JavaScript build tool for React Native.
 
 To start the Metro dev server, run the following command from the root of your React Native project:
